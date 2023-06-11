@@ -1,0 +1,2 @@
+# sdk-corelib
+ sdks cairo
